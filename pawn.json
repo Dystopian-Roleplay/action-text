@@ -2,5 +2,5 @@
     "entry": "test.pwn",
     "output": "test.amx",
     "dependencies": ["sampctl/samp-stdlib", "pawn-lang/YSI-Includes"],
-    "dev_dependencies": ["ScavengeSurvive/test-boilerplate"]
+    "dev_dependencies": ["Dystopian-Roleplay/test-boilerplate"]
 }
